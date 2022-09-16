@@ -7,3 +7,6 @@ ML model is yolo4.  It was trained with 320x320 images to detect the following o
 
 
 ![Screenshot 2022-09-13 105739](https://user-images.githubusercontent.com/105232789/190707250-0e481f4c-d403-4e1b-94f3-7095a907019b.png)
+
+
+To install this app into your PC just copy all files into a folder, and run "odimageGUI.py" from your code editor.
